@@ -12,3 +12,6 @@ A simple Flask web app for chatting with Llama 3.2 via Ollama.
 ## Features
 - Simple chat interface
 - Direct integration with local Ollama instance
+
+
+[![Known Vulnerabilities](https://snyk.io/test/github/R3621/flask-ollama-chat/badge.svg)](https://snyk.io/test/github/R3621/flask-ollama-chat)
